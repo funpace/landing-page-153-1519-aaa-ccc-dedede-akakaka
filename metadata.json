@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Funpace - Fitness Gamification Hub",
+  "description": "A high-performance fitness dashboard that gamifies your training sessions using AI-powered insights and image transformations. Track your Funits, unlock badges, and evolve through phases of athletic performance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
